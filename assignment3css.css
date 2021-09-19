@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 1080px;
+  margin: auto;
+}
+
+#header{
+  width: 1080px;
+  background-image: url(https://cnet3.cbsistatic.com/img/9OV94MAr6E2DOFWCTbmRbTzJBpE=/420x236/2020/01/02/145a13ff-fc7a-4015-a42b-fa91bd93a1ec/05-dell-xps-13.jpg);
+  height: 200px;
+  background-color: purple;
+  background-position: center;
+}
